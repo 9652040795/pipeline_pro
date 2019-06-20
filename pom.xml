@@ -119,8 +119,6 @@
               			     <webXml>SampleTest\src\main\webapp\WEB-INF\web.xml</webXml>   
              			    </configuration>
             			  </plugin>
-
-                </plugins>
       
     
     <finalName>SampleTest</finalName>
